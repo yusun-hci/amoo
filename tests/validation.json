@@ -1,0 +1,9 @@
+{
+  "static_assets": "PASS",
+  "unique_ids": "PASS",
+  "script_dom_references": "PASS",
+  "network_dependencies": 0,
+  "rule_combinations": 10240,
+  "rule_result": "PASS",
+  "browser_visual_QA": "Not run: browser control capability unavailable in this environment."
+}
